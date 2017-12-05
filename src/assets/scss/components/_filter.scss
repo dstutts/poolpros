@@ -1,0 +1,32 @@
+.dropdown {
+
+    &__text {
+        display: inline;
+        border-top: solid 1px black;
+        border-left: solid 1px black;
+        border-bottom: solid 1px black;
+        padding-left: 14px;
+        padding-right: 14px;
+        padding-top: 12px;
+        padding-bottom: 12px;
+    }
+
+    &__arrow {
+        display: inline;
+        border: solid 1px black;
+        padding-left: 14px;
+        padding-right: 14px;
+        padding-top: 12px;
+        padding-bottom: 12px;
+    }
+
+    &__content {
+        display: none;
+
+    }
+}
+
+.filter {
+    padding-right: 22px;
+    padding-left: 22px;
+}

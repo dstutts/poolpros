@@ -1,0 +1,22 @@
+.burger {
+    position: absolute;
+    width: 54px;
+    height: 54px;
+    border-radius: 999px;
+    box-shadow: 0px 0px 10px black;
+    margin-top: 6px;
+}
+
+.burger {
+
+    &__image {
+        position: absolute;
+        top: 22px;
+        right: 20px;
+    }
+}
+
+.logo {
+    margin-top: 15px;
+}
+
