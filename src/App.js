@@ -11,25 +11,25 @@ class App extends Component {
   // }
   constructor() {
     super();
-      this.state = {dealersData: []};
-      this.getDealers();
+      this.state = data;
+      // this.getDealers();
       this.openModal = this.openModal.bind(this);
       this.afterOpenModal = this.afterOpenModal.bind(this);
       this.closeModal = this.closeModal.bind(this);
   }
 
-  getDealers () {
-    axios.get('./dealers.json')
-      .then((res) => {
-        console.log(res);
-       this.setState({
-          dealersData: res.body
-        });
-      })
-      .catch((err) => {
-        console.log(err);
-      });
-  };
+  // getDealers () {
+  //   axios.get('./dealers.json')
+  //     .then((res) => {
+  //       console.log(res);
+  //      this.setState({
+  //         dealersData: res.body
+  //       });
+  //     })
+  //     .catch((err) => {
+  //       console.log(err);
+  //     });
+  // };
 
 
 
@@ -198,7 +198,7 @@ closeModal() {
         <section className="section section--card text-center">
           <div className="row">
               <Cards
-                list={this.state.dealersData}
+                list={this.state.dealers}
                 certImages={this.state.certificationImages}
               />
           </div>
