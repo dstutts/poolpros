@@ -2,31 +2,50 @@
 
     &__text {
         display: inline;
-        border-top: solid 1px black;
-        border-left: solid 1px black;
-        border-bottom: solid 1px black;
+        border-top: solid 1px $color-border-grey;
+        border-left: solid 1px $color-border-grey;
+        border-bottom: solid 1px $color-border-grey;
         padding-left: 14px;
         padding-right: 14px;
         padding-top: 12px;
         padding-bottom: 12px;
+        font-size: 16px;
+        line-height: 21px;
+        font-weight: bolder;
     }
 
     &__arrow {
         display: inline;
-        border: solid 1px black;
+        border: solid 1px $color-border-grey;
         padding-left: 14px;
         padding-right: 14px;
         padding-top: 12px;
         padding-bottom: 12px;
+        font-size: 16px;
+        line-height: 21px;
+        font-weight: bolder;
     }
 
     &__content {
         display: none;
-
     }
 }
 
 .filter {
     padding-right: 22px;
     padding-left: 22px;
+}
+
+.fa-caret-down {
+    color: $color-font-primary;
+}
+
+.filter {
+
+    &__results {
+        font-size: 16px;
+        line-height: 21px;
+        font-weight: bolder;
+        color: $color-duke-blue;
+    }
 }

@@ -1,0 +1,117 @@
+.card {
+
+    border-radius: 10px;
+    border: solid 2px $color-alt-bg;
+    margin-bottom: 15px;
+
+    &__title {
+        font-size: 20px;
+        line-height: 27px;
+        padding-top: 48px;
+    }
+
+    &__phone {
+        height: 32px;
+        width: 32px;
+        padding: 10px;
+        display: inline;
+        background: $color-brand-blue;
+        margin-right: 5px;
+        @media (min-width: 440px) {
+            border-radius: 999px;
+        }
+    }
+
+    &__number {
+        background: $color-duke-blue;
+    }
+
+    &__pro {
+        list-style: none;
+        font-size: 12px;
+        line-height: 27px;
+        margin-bottom: 0px;
+        margin-right: auto;
+        margin-left: auto;
+        // padding-left: 72px;
+        // padding-right: 72px;
+        padding-top: 15px;
+        padding-bottom: 35px;
+    }
+
+    &__contact {
+        border: solid 1px $color-miami-aqua;
+        border-radius: 6px;
+        width: 65%;
+        height: 48px;
+        margin-right: auto;
+        margin-left: auto;
+        line-height: 48px;
+        color: $color-brand-blue;
+        font-size: 15px;
+        font-weight: bolder;
+        margin-bottom: 31px;
+    }
+
+    &__hours {
+        font-size: 14px;
+        line-height: 19px;
+        margin-bottom: 0px;
+    }
+
+    &__tags {
+        background: $color-alt-bg;
+    }
+
+    &__business {
+        margin-bottom: 44px;
+    }
+
+    &__item {
+        margin-right: 0px;
+    }
+}
+
+.card__text--small {
+    display: inline;
+    font-size: 10px;
+    line-height: 12px;
+    font-weight: bolder;
+    margin-right: 5px;
+    @media (min-width: 440px) {
+        display: none;
+    }
+}
+
+.fa-phone {
+    height: 14px;
+    width: 14px;
+    display: inline;
+}
+
+.fa-envelope {
+    margin-right: 5px;
+}
+
+.card__text--large {
+    display: inline;
+    font-weight: bolder;
+    @media (min-width: 440px) {
+        color: $color-duke-blue;
+    }
+}
+
+.card__text--italic {
+    font-size: 12px;
+    line-height: 17px;
+    font-style: italic;
+}
+
+// .card-column {
+//     padding-left: 0px;
+//     padding-right: 0px;
+// }
+
+
+
+

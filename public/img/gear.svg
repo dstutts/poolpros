@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="13px" height="13px" viewBox="0 0 13 13" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 47.1 (45422) - http://www.bohemiancoding.com/sketch -->
+    <title>gear</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect x="210" y="1781" width="13" height="13" id="rect-1"></rect>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Artboard" transform="translate(-210.000000, -1773.000000)">
+            <g id="Dealer-Result-3" transform="translate(-23.000000, -8.000000)">
+                <g id="certifications" transform="translate(23.000000, 0.000000)">
+                    <g id="gear">
+                        <image x="210" y="1781" width="13" height="13" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA0AAAANCAYAAABy6+R8AAAAAXNSR0IArs4c6QAAASVJREFUKBVl0rlKA1EYhuFMooK5AO3EBSGCVgqW2oi4YGVpYYpUEiQpch2p9AYs7QS1GhAEwcbGQlwClmopFuKSvO/Ro2HywZM5/z85ywyTpGmay6RIPYM3XGfuhTKfaSbUy7jAMRbQEydpEy2sYgpOHsAYtvGAOYQkHG+U0SFm8Q0TT9BdX9KfjzefGBxYkLjzT/VfP9PY726OUHz9Nlz5BCUs4QrG/iAmUfB4Hwx8hgLusIZ7GI/jSzEufIvdPn4U02bwCa/GcYyL9iPvM0yjBjOBJsbh696D8bmr2EDqLi3ElV1tHSuIR2YYxq9cb9B2p2FsIcaex3BBJ5oh7CAs7h8e0YBfwCLqMC+owCMdoYwQV3P2Gc7hg7uLeYd9v4ZT/L2UDg5vPddUvyAnAAAAAElFTkSuQmCC"></image>
+                        <use fill-opacity="0" fill="#000000" fill-rule="evenodd" xlink:href="#rect-1"></use>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

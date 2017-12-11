@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="12px" height="11px" viewBox="0 0 12 11" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 47.1 (45422) - http://www.bohemiancoding.com/sketch -->
+    <title>users</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect x="210" y="1755" width="12" height="11" id="rect-1"></rect>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Artboard" transform="translate(-210.000000, -1747.000000)">
+            <g id="Dealer-Result-3" transform="translate(-23.000000, -8.000000)">
+                <g id="certifications" transform="translate(23.000000, 0.000000)">
+                    <g id="users">
+                        <image x="210" y="1755" width="12" height="11" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAwAAAALCAYAAABLcGxfAAAAAXNSR0IArs4c6QAAAM5JREFUKBV9kb0RwjAMRhOgoaSlhBGgpMqRVcgIMEJWgJISVuAyASvACNBS8p6xc27Cd/dZlizJ+imLAXRd1/K0hzfYVFX11HXikYDTirvUKTggt/AC17AYeQicd4g7PMIHNOAKhUkC+gA0v8+RytHmjwF5QLLlchaVQzLmAadkjNJyrF/0JZU/PfRgtlfU38gltKdFtNlTPVahYTOd4VwdTKFZLeUT7ybclHE6TmYINQ9O0ARP9+CC/qFlaWEHOhnQQL9LE+Haw17SAoPxCwI1K9dWvYikAAAAAElFTkSuQmCC"></image>
+                        <use fill-opacity="0" fill="#000000" fill-rule="evenodd" xlink:href="#rect-1"></use>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

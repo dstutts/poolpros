@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="13px" height="10px" viewBox="0 0 13 10" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 47.1 (45422) - http://www.bohemiancoding.com/sketch -->
+    <title>action icon rasterized</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect x="326" y="141" width="13" height="10" id="rect-1"></rect>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Artboard" transform="translate(-323.000000, -1992.000000)">
+            <g id="footer" transform="translate(-3.000000, 1851.000000)">
+                <g id="action-icon-rasterized">
+                    <image x="326" y="141" width="13" height="10" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA0AAAAKCAYAAABv7tTEAAAAAXNSR0IArs4c6QAAAPZJREFUKBVd0LFqAkEQxvHVaDQiQhor+3SC72AdfAE7OzsbSyVIIEh6MaSLra+hjVaChYUSbQQFY1A0qOf/W/dEMvBjdvaY2b01nudVMcIEaxycLrmGAdIIwIgWR2PMHt8IIYAwhhihCH0roQ3bSZ/XhAbcIYMPzHCCH3MWBQQ1WaHTFHl8IqjiXySpdRpnXeKd9OTWmr7DFn9uT+kHZVwn3tMfxy86eEYKL1As8ebYH9emmnpIqHARIeuaK1TRgg3/n6JUj27vNjUo+iggixzsk2/ImrqAnlpP7seBhQY+4BUV2OPr5DF2UJOuKDGoaQq96BdsnAHzvrH933BBRAAAAABJRU5ErkJggg=="></image>
+                    <use fill-opacity="0" fill="#000000" fill-rule="evenodd" xlink:href="#rect-1"></use>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

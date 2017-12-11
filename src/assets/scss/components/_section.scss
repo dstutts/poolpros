@@ -1,10 +1,42 @@
 .section--banner {
     height: 110px;
-    background-image: url('/../../src/assets/img/water-image.jpg');
+    background-image: url('/img/water-bg.jpg');
     background-size: cover;
+    margin-bottom: 20px;
+    box-shadow: inset 0 7px 9px -7px #000000;
 }
 
 .section--filter {
     background: $color-alt-bg;
-    padding-top: 17px;
+    margin-bottom: 20px;
+}
+
+.section--footer {
+    background: $color-brand-blue;
+}
+
+.banner-border {
+    margin-bottom: 0px;
+    z-index: -1;
+    position: relative;
+    bottom:35px;
+    color: black;
+    box-shadow: 0px 5px 5px $color-font-primary;
+}
+
+.section--topheader {
+    background: $color-brand-blue;
+}
+
+.section--bottomheader {
+    padding-top: 33px;
+    // padding-bottom: 33px;
+}
+
+.section--card {
+    margin-bottom: 85px;
+}
+
+.section--card .row {
+    max-width: 1328px;
 }

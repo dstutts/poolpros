@@ -1,3 +1,7 @@
 .row {
     max-width: 1300px;
 }
+
+.inline-list>li>* {
+    display: inline;
+}

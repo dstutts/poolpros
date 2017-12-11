@@ -1,0 +1,50 @@
+.filterlarge {
+
+    background: $color-alt-bg;
+    height: 80px;
+    padding-top: 30px;
+    border-radius: 8px;
+    margin-bottom: 26px;
+    box-shadow: 0 0 10px $color-alt-bg;
+
+    &__results {
+        font-size: 18px;
+        line-height: 21px;
+        font-weight: bolder;
+        color: $color-duke-blue;
+    }
+
+    &__title {
+        font-size: 18px;
+        line-height: 21px;
+        font-weight: bolder;
+    }
+
+    &__list {
+        font-family: 'Nexa';
+        font-size: 12px;
+    }
+}
+
+input[type="checkbox"] {
+    display: none;
+}
+
+input[type="checkbox"] + span:before {
+    content: url('/img/unchecked.png');
+    margin-right: 10px;
+    margin-top: 40px;
+}
+
+input[type="checkbox"]:checked + span:before {
+    content: url('/img/checked.png');
+    margin-right: 10px;
+}
+
+input[type="checkbox"] + span {
+    margin-bottom: 20px;
+}
+
+.service {
+    margin-bottom: 50px;
+}
